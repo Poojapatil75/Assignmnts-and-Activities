@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+F:\Selenium\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-1985557342.index
-2466959411.index
-2313940701.index
